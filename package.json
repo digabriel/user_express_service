@@ -1,0 +1,22 @@
+{
+  "name": "users",
+  "version": "0.0.1",
+  "description": "User micro-service to handle generic User modeling in backend services.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/digabriel/user_express_service.git"
+  },
+  "author": "Dimas Gabriel",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/digabriel/user_express_service/issues"
+  },
+  "homepage": "https://github.com/digabriel/user_express_service#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
